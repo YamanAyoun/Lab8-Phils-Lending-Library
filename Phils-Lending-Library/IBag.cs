@@ -17,6 +17,7 @@ namespace Phils_Lending_Library
         /// Remove the item from the bag at the given index.
         /// </summary>
         /// <returns>The item that was removed.</returns>
+        /// 
         T Unpack(int index);
     }
 }

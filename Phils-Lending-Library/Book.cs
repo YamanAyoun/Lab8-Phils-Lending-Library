@@ -8,6 +8,7 @@ namespace Phils_Lending_Library
 {
     public class Book
     {
+
         public string Title {get; set;}
         public string authorFirstname { get; set; }
         public string authorLastname { get; set; }

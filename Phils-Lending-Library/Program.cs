@@ -30,6 +30,7 @@
             
             if (x == items.Unpack(0))
                 Console.WriteLine("Unpacked book.");
+
             // If we unpack item using index that does not exist, it will prompt the user and return null.
             items.Unpack(0);
         }

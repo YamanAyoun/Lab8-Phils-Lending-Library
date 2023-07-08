@@ -14,7 +14,6 @@ namespace Phils_Lending_Library
 
         public Library() {
 
-
             libraryBook = new Dictionary<string, Book>();
         }    
         public int Count

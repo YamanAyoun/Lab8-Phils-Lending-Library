@@ -46,6 +46,7 @@ namespace Phils_Lending_Library
                 Console.WriteLine("Item index was not found!");
             }
             return default(T);
+
         }
     }
 }
